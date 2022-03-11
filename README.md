@@ -1,5 +1,5 @@
 # Regras de Associacao com Python
-Curso de Regras de Associação com Python, Arpiori e Sql.
+Curso de Regras de Associação com Python, Apriori e Sql.
 
 Suporte = Número de registros com X e Y / Número total de registros. Em outras palavras é a porcetagem total de produtos em relação a base.  
 
